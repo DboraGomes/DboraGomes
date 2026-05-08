@@ -1,16 +1,21 @@
-## Hi there 👋
+# Oiin, eu sou a Deb 👋
 
-<!--
-**DboraGomes/DboraGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ADS student | Backend developer in progress  
+📚 Books, code & dark mode
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Node.js
+- JavaScript
+- Java
+- Python
+- PostgreSQL
+- Docker
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente
+Desenvolvendo projetos backend e aprendendo mais sobre:
+- autenticação JWT
+- APIs REST
+- PostgreSQL
+- Docker
+- arquitetura backend
