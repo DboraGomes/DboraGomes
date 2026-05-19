@@ -1,4 +1,5 @@
 # Oiin, eu sou a Deb 👋
+<img src="https://readme-typing-svg.herokuapp.com?color=BA75FF&size=24&center=true&vCenter=true&width=500&lines=ADS+Student;Backend+Developer+in+progress;Books+%2B+Code+%2B+Dark+Mode" />
 
 💻 Estudante de ADS  
 📚 Backend developer em progresso  
@@ -25,9 +26,9 @@
 
 ## 📊 Estatísticas GitHub
 
-![Deb GitHub stats](https://github-readme-stats.vercel.app/api?username=DboraGomes&show_icons=true&theme=tokyonight)
+![Deb GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DboraGomes&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&theme=midnight-purple)
 
 ---
 
