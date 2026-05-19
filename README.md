@@ -29,7 +29,13 @@
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DboraGomes&show_icons=true&theme=midnight-purple)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DboraGomes&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DboraGomes&theme=midnight_purple" />
+</p>
 
 ---
 
