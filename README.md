@@ -32,7 +32,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DboraGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&theme=midnight-purple&cache_seconds=1800"/>
+</p>
 
 ---
 
