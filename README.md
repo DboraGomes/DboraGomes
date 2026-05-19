@@ -33,10 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DboraGomes&theme=midnight_purple" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DboraGomes&theme=midnight_purple" />
-</p>
-
 ---
 
 ## 🌐 Contato
