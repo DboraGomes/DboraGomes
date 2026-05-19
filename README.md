@@ -25,9 +25,9 @@
 
 ## 📊 Estatísticas GitHub
 
-![Deb GitHub stats](https://github-readme-stats.vercel.app/api?username=DboragGomes&show_icons=true&theme=tokyonight)
+![Deb GitHub stats](https://github-readme-stats.vercel.app/api?username=DboraGomes&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DboragGomes&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&theme=tokyonight)
 
 ---
 
