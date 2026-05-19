@@ -32,12 +32,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DboraGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&theme=midnight-purple"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DboraGomes&theme=midnight-purple" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DboraGomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 ---
 
